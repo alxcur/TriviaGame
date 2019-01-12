@@ -1,5 +1,7 @@
 # TriviaGame
 
+https://alxcur.github.io/TriviaGame/
+
 Game Rules and Requirements:
 
 * If the player selects the correct answer, show a screen congratulating them for choosing the right option. After a few seconds, display the next question -- do this without user input.
